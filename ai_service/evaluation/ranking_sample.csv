@@ -1,0 +1,7 @@
+query_id,resume_text,job_text,required_skills,label
+cv_php,"PHP MySQL Laravel JavaScript","PHP developer MySQL Laravel","PHP, MySQL, Laravel",1
+cv_php,"PHP MySQL Laravel JavaScript","Graphic designer Figma Adobe","Figma",0
+cv_php,"PHP MySQL Laravel JavaScript","Java developer Docker Kubernetes","Java, Docker",0
+cv_data,"Python Pandas SQL Machine Learning","Data analyst Python Pandas SQL","Python, Pandas, SQL",1
+cv_data,"Python Pandas SQL Machine Learning","PHP web developer Laravel","PHP, Laravel",0
+cv_data,"Python Pandas SQL Machine Learning","Machine learning engineer Python","Python, Machine Learning",1

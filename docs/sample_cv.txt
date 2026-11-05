@@ -1,0 +1,15 @@
+NGUYỄN VĂN MẪU
+Email: sample.cv@example.com
+Điện thoại: 0912345678
+
+MỤC TIÊU NGHỀ NGHIỆP
+Tìm vị trí thực tập lập trình web PHP và nâng cao kỹ năng phát triển phần mềm.
+
+HỌC VẤN
+Sinh viên Công nghệ thông tin.
+
+KỸ NĂNG
+PHP, MySQL, HTML, CSS, JavaScript, Python, Git, REST API.
+
+DỰ ÁN
+Website quản lý quán cà phê: xây dựng CRUD khách hàng, đồ uống, hóa đơn bằng PHP và MySQL.

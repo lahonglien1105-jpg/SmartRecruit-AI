@@ -1,0 +1,1 @@
+<section class="empty-state"><h1>404</h1><h2>Trang không tồn tại</h2><p>Đường dẫn này đã thay đổi hoặc không còn khả dụng.</p><a class="button primary" href="index.php">Quay về trang chủ</a></section>

@@ -1,0 +1,12 @@
+{
+  "n_pairs": 8,
+  "threshold": 0.5,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "positive_rate": 0.5,
+  "engine": "tfidf",
+  "roc_auc": 1.0,
+  "dataset": "sample_pairs.csv",
+  "warning": "Chỉ số trên dữ liệu demo không chứng minh hiệu quả thực tế; không dùng để tự động loại ứng viên."
+}

@@ -1,0 +1,44 @@
+# Local credentials
+config.php
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+# Uploaded / personal data
+/uploads/*
+!/uploads/.htaccess
+!/uploads/index.html
+/cvs/
+/resumes/
+/backups/
+/dumps/
+/private/
+*.sql.gz
+*.sqlite*
+*.db
+# Dependencies and generated files
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+vendor/
+node_modules/
+*.log
+*.bak
+*.zip
+/cache/
+/tmp/
+/temp/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
